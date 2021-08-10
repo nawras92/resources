@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Pink Shirt",
+      "price": 10.9,
+      "img": "https://www.repertoirefashion.co.uk/images/emporio-armani-mens-pin-point-cutaway-regular-fit-pink-shirt-p30202-124715_image.jpg",
+      "rating": [
+        {
+          "name": "Nawras",
+          "rating": 4.5
+        },
+        {
+          "name": "Ali",
+          "rating": 5
+        },
+        {
+          "name": "Jad",
+          "rating": 4
+        },
+        {
+          "name": "Jwana",
+          "rating": 2.5
+        },
+        {
+          "name": "Carol",
+          "rating": 2.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Black Sweater",
+      "price": 29.45,
+      "img": "https://d1x7zurbps6occ.cloudfront.net/product/xlarge/449054-138048.jpg",
+      "rating": [
+        {
+          "name": "Nawras",
+          "rating": 2.5
+        },
+        {
+          "name": "Ali",
+          "rating": 3
+        },
+        {
+          "name": "Jad",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Red Scarf",
+      "price": 9,
+      "img": "https://www.lulus.com/images/product/xlarge/4464370_840722.jpg",
+      "rating": [
+        {
+          "name": "Sami",
+          "rating": 4.5
+        },
+        {
+          "name": "Safia",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Stylish hat",
+      "price": 13.5,
+      "img": "https://3.bp.blogspot.com/-DDezsKjNNKU/TqKmv4yplOI/AAAAAAAAABc/cypm_36K5g0/s1600/ScalahatDF60_CHAR_3Q.jpg",
+      "rating": [
+        {
+          "name": "Lolo",
+          "rating": 2.5
+        },
+        {
+          "name": "Lala",
+          "rating": 2
+        },
+        {
+          "name": "Ola",
+          "rating": 3
+        },
+        {
+          "name": "Nada",
+          "rating": 2.5
+        },
+        {
+          "name": "Alaa",
+          "rating": 2.5
+        },
+        {
+          "name": "Ameer",
+          "rating": 1.5
+        },
+        {
+          "name": "Khaled",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "White Trainers",
+      "price": 14,
+      "img": "https://www.80scasualclassics.co.uk/images/ad%22id%22as-gazelle-leather-trainers-in-white-p5756-71581_image.jpg",
+      "rating": [
+        {
+          "name": "Lolo",
+          "rating": 1.5
+        },
+        {
+          "name": "Lala",
+          "rating": 3
+        },
+        {
+          "name": "Ola",
+          "rating": 4
+        },
+        {
+          "name": "Nada",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Blue Dress",
+      "price": 19,
+      "img": "https://kalkifashion.com.imgeng.in/media/catalog/product/b/l/blue-dress-adorn-batik-print-only-on-kalki-338636_3_.jpg",
+      "rating": [
+        {
+          "name": "Nawras",
+          "rating": 1.5
+        },
+        {
+          "name": "Ali",
+          "rating": 4
+        },
+        {
+          "name": "Jad",
+          "rating": 3
+        },
+        {
+          "name": "Jwana",
+          "rating": 3.5
+        },
+        {
+          "name": "Carol",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Winter Gloves",
+      "price": 9,
+      "img": "https://ae01.alicdn.com/kf/UTB8X.EbF5aMiuJk43PTq6ySmXXaf/Cute-Christmas-Warm-Winter-Gloves-Snowflake-Printed-Knitted-Touch-Gloves-Men-Women-Gloves-Touch-Screen-Glove.jpg",
+      "rating": [
+        {
+          "name": "Sami",
+          "rating": 3.5
+        },
+        {
+          "name": "Safia",
+          "rating": 3
+        },
+        {
+          "name": "Lolo",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Wool Coat",
+      "price": 45,
+      "img": "https://s3-eu-west-1.amazonaws.com/wi-ebay-pictures/EBAY/10/12/93/392101072681_2679_I_314_155_IMG5f0098.jpeg",
+      "rating": [
+        {
+          "name": "Alaa",
+          "rating": 3.5
+        },
+        {
+          "name": "Ameer",
+          "rating": 2.5
+        },
+        {
+          "name": "Khaled",
+          "rating": 5
+        }
+      ]
+    }
+  ]
+}
