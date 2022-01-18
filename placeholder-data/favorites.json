@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Countries",
+    "items": [
+      {
+        "image": "https://skyticket.com/guide/wp-content/uploads/2017/10/iStock-638591634-e1516171299579.jpg",
+        "title": "DR Congo"
+      },
+      {
+        "image": "https://wallpapercave.com/wp/wp2177944.jpg",
+        "title": "Angola"
+      },
+      {
+        "image": "https://travelarmenia.org/wp-content/uploads/2015/12/Shaki_Waterfall2.jpg",
+        "title": "Armenia"
+      },
+      {
+        "image": "https://www.hdwallpapersnature.com/wp-content/uploads/2020/04/sweet-Comoros-HD-Wallpapers-of-Nature-scaled.jpg",
+        "title": "Comoros"
+      }
+    ]
+  },
+  {
+    "title": "Planets",
+    "items": [
+      {
+        "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/5-51peg.jpg",
+        "title": "51 Pegasi b"
+      },
+      {
+        "image": "https://www.nasa.gov/sites/default/files/styles/full_width/public/images/607694main_Kepler22bArtwork_full.jpg",
+        "title": "Kepler-22b"
+      },
+      {
+        "image": "https://www.boredpanda.com/blog/wp-content/uploads/2018/10/Strangest-Exoplanets-Out-There-5bbcb1c226f3f__700.jpg",
+        "title": "Hd 189733b"
+      },
+      {
+        "image": "https://www.boredpanda.com/blog/wp-content/uploads/2018/10/Strangest-Exoplanets-Out-There-5bbcb007a330b__700.jpg",
+        "title": "Gj-504b "
+      }
+    ]
+  },
+  {
+    "title": "Flowers/Plants",
+    "items": [
+      {
+        "image": "https://blog.flowersacrossmelbourne.com.au/wp-content/uploads/2015/02/Monkey-Face-Orchid.jpg",
+        "title": "Monkey Face Orchid"
+      },
+      {
+        "image": "https://blog.flowersacrossmelbourne.com.au/wp-content/uploads/2015/02/Bat-Plant.jpg",
+        "title": "Bat plant "
+      },
+      {
+        "image": "https://blog.flowersacrossmelbourne.com.au/wp-content/uploads/2015/02/Dancing-Ladies.jpg",
+        "title": "Dancing Girls"
+      },
+      {
+        "image": "https://blog.flowersacrossmelbourne.com.au/wp-content/uploads/2015/02/White-Egret-Orchid.jpg",
+        "title": "White Egret Orchid"
+      }
+    ]
+  },
+  {
+    "title": "Colors",
+    "items": [
+      {
+        "image": "#801818",
+        "title": "Falu"
+      },
+      {
+        "image": "#E3256B",
+        "title": "Razzmatazz"
+      },
+      {
+        "image": "#6082B6",
+        "title": "Glaucous"
+      },
+      {
+        "image": "#947706",
+        "title": "Puke"
+      }
+    ]
+  }
+]
